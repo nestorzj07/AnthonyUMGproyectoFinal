@@ -1,0 +1,21 @@
+.contenedor2 {
+	margin-top: 150px;
+	background: #808080;
+}
+
+h2 {
+	font-size: 42px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 20px;
+	text-align: center;
+	color: #fff;
+}
+
+img {
+	height: auto;
+	width: 400px;
+	margin-left: 300px;
+}

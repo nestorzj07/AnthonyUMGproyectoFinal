@@ -1,0 +1,21 @@
+h2 {
+	font-size: 40px;
+	margin-top: 180px;
+	text-align: center;
+}
+
+.contenedor2 {
+	margin-top: -40px;
+	background: #808080;
+}
+
+h3, h4 {
+	text-align: center;
+}
+
+img { 
+	margin-left: 400px;
+	width: 200px;
+	height:auto;
+
+ }

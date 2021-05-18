@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+header{
+	height: 125px;
+	width: 1900px;
+	background: #333;
+	color: #fff;
+
+	position: fixed;
+	top: 0;
+	z-index: 100;
+}
+
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+body{
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	font-family: ´Open Sans´, sans-serif;
+    background: orange
+}
+
+
+
+.contenedor {
+	width: 98%;
+	margin: auto;
+}
+
+h1 {
+	font-size: 45px;
+
+}
+
+header .contenedor :{
+	display: table;
+}
+
+header {
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;	
+}
+
+
+
+section {
+	width: 100%;
+	margin-bottom: 25px;
+}
+
+#Bienvenidos {
+	text-align: center;
+}
+
+footer .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	padding-bottom: 23px;
+}
+.copy{
+	width: 100%;
+	text-align: center;
+	font-size: 25px;
+}
+
+.sociales {
+	width: 100%;
+	text-align: center;
+	font-size: 28px;
+}
+
+.sociales a {
+	color: #000;
+	text-decoration: none;
+}
